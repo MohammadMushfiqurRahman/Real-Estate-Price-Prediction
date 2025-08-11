@@ -1,6 +1,6 @@
 # Real Estate Price Prediction
 
-This repository contains a machine learning project that predicts housing prices using various features. The model is trained on a real estate dataset and utilises the RandomForestRegressor from scikit-learn to make predictions.
+This repository contains a machine learning project that predicts housing prices using various features. The model is trained on a real estate dataset and utilises the RandomForestRegressor from scikit-learn to make predictions and used XAI to understand the models.
 
 ## Project Overview
 
